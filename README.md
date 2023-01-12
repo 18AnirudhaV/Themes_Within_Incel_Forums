@@ -13,20 +13,21 @@ We have been given a dataset of incel forum posts with the goal of understanding
 (Queen's University)
 
 ## Poster Video:
-[![Incel Forums Topics and Themes](Final Poster.jpg)]([https://youtu.be/aFH8vBCL2xA](https://www.youtube.com/watch?v=aFH8vBCL2xA&ab_channel=YodaTime29) "Incel Forums Topics and Themes")
+[![Incel Forums Topics and Themes](/Final Poster.jpg)]([https://youtu.be/aFH8vBCL2xA](https://www.youtube.com/watch?v=aFH8vBCL2xA&ab_channel=YodaTime29) "Incel Forums Topics and Themes")
 
 This YouTube video (click picture) is a showcase poster summarizing our analysis of the topic and our understandings. It can be read by itself or understood with the commentary given by both authors.
 
 ## File Name's & Summary:
-###Final Poster.jpg
-- This is our showcase poster used in our video and presentaion 
+### Final Poster.jpg
+- This is our showcase poster used in our video and presentaion.
 - (It is 42"x24" as we had to print it out to that size therefore we recommend the video  for reading it)
-###Incel_data_analysis_code.ipynb
-- This contains the final data analysis code submitted to our supervisor 
+### Incel_data_analysis_code.ipynb
+- This contains the final data analysis code submitted to our supervisor.
 - (Our numereous code files and attempts have been explained in the report)
-###The Topics and Themes within Incel Forums - Final Report.pdf
-- Final report submitted and used for evaluation. Contains our methodology and results
-###incel_test.py
+### The Topics and Themes within Incel Forums - Final Report.pdf
+- Final report submitted and used for evaluation. 
+- Contains our various Methodologies and Final Results.
+### incel_test.py
 - Initial tests done of Forum Posts to see if data is viable.
-###incelclean_csv.py
+### incelclean_csv.py
 - Python File that cleans the initial forum posts that were given to us. Any additional forum posts can also be run through this cleaner.
