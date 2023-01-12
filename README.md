@@ -14,7 +14,7 @@ We have been given a dataset of incel forum posts with the goal of understanding
 
 ## Poster/Video:
 [![Incel Forums Topics and Themes]
-(https://img.youtube.com/vi/aFH8vBCL2xA/hqdefault.jpg)]
+(https://img.youtube.com/vi/aFH8vBCL2xA/0jpg)]
 (https://www.youtube.com/watch?v=aFH8vBCL2xA&ab_channel=YodaTime29 "Incel Forums Topics and Themes")
 
 This YouTube video (click picture) is a showcase poster summarizing our analysis of the topic and our understandings. It can be read by itself or understood with the commentary given by both authors.
